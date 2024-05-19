@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "vault-snapshot",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus25.actions.githubusercontent.com/ZUcJDEbebBn6TMixnD8ORx6uAyvOmey1AIEtguAhK8Pw9T5tiJ/",
+  "gitHubUrl": "https://github.com/illyaBendik/vault-action-snapshot",
+  "workFolder": "_work"
+}
